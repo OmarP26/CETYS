@@ -1,0 +1,16 @@
+{
+  "name": "project-api",
+  "version": "1.0.0",
+  "description": "API de Proyecto",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "~1.4.4",
+    "express": "~4.17.1",
+    "set-cookie-parser": "^2.3.5"
+  },
+  "license": "MIT"
+}
